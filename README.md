@@ -1,0 +1,1 @@
+This is a mini project demonstrating the OOPs concepts as a whole . This project can be logically extended by having it connected to databases for access using JDBC Drivers along with providing additional features like promotion,demotion,salary hike, department transfer etc
